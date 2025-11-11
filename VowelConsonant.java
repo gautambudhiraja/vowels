@@ -9,6 +9,7 @@ public class VowelConsonant {
         else
             System.out.println(ch + " is consonant");
         System.out.println(ch + " is consonant");
+        System.out.println(ch + " is consonant");
 
     }
 }
